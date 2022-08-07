@@ -4,3 +4,11 @@
 .primary{
     color: blue;
 }
+.section-five{
+    background-image: linear-gradient(to left,rgba(0,0,0,0.1),black),url(img/background.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-blend-mode: overlay;
+    height: 100vh;
+}
